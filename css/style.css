@@ -1,0 +1,15 @@
+.red, .blue, .purple, .yellow{
+    height: 100px;
+}
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.purple{
+    background: purple;
+}
+.yellow{
+    background: yellow;
+}
